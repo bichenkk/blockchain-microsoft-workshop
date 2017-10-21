@@ -1,0 +1,1 @@
+geth --datadir "C:\Users\polyu\Desktop\blockchain" init "C:\Users\polyu\Desktop\blockchain\genesis.json"

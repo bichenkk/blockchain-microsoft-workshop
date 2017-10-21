@@ -1,0 +1,1 @@
+geth --datadir "C:\Users\polyu\Desktop\blockchain" --networkid 1234567890
